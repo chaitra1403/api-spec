@@ -1,0 +1,5 @@
+category,year,statusCode,scenario
+English,1989,200,Successful responses: OK
+English,1989,400,Client error responses: Bad Request
+English,1989,404,Client error responses: Not Found
+English,1989,422,Client error responses: Unprocessable Entity
