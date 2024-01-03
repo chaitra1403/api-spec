@@ -1,0 +1,11 @@
+id,name,description,price,statusCode
+1,Chips,Uncle Chips,120.0,200
+2,Apple,Fresh Apple,120.0,404
+3,Banana,Yellow Banana,50.0,404
+4,Chips,Crispy Chips,120.0,200
+5,Chips,Uncle Chips,120.0,200
+6,New Chips,New Flavour Chips,120.0,200
+7,Orange,Fresh Orange,60.0,404
+8,Pineapple,Sweet Pineapple,90.0,404
+9,Mango,Ripe Mango,70.0,404
+10,Blueberries,Fresh Blueberries,150.0,404
