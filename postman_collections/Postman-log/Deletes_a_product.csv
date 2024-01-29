@@ -1,0 +1,21 @@
+productId,statusCode,scenario
+3,200,Product deleted
+3,404,Not Found
+2,200,Product deleted
+22,200,Product deleted
+22,404,Not Found
+23,200,Product deleted
+23,404,Not Found
+40,200,Product deleted
+44,200,Product deleted
+46,200,Product deleted
+2323,404,Not Found
+123456,404,Not Found
+234567,404,Not Found
+789012,404,Not Found
+456789,404,Not Found
+345678,404,Not Found
+123789,404,Not Found
+567890,404,Not Found
+678901,404,Not Found
+890123,404,Not Found
