@@ -1,0 +1,29 @@
+productId,statusCode,scenario
+4,200,successful operation
+4,404,Product not found
+1,200,successful operation
+1,404,Product not found
+2,200,successful operation
+2,404,Product not found
+3,200,successful operation
+3,404,Product not found
+4433221100,200,successful operation
+4433221100,404,Product not found
+5566778899,200,successful operation
+5566778899,404,Product not found
+1122334455,200,successful operation
+1122334455,404,Product not found
+1234567890,200,successful operation
+1234567890,404,Product not found
+1029384756,200,successful operation
+1029384756,404,Product not found
+987654321,200,successful operation
+987654321,404,Product not found
+8765432109,200,successful operation
+8765432109,404,Product not found
+6574839201,200,successful operation
+6574839201,404,Product not found
+5678901234,200,successful operation
+5678901234,404,Product not found
+9988776655,200,successful operation
+9988776655,404,Product not found

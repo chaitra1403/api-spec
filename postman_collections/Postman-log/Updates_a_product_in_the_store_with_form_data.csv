@@ -1,0 +1,15 @@
+productId,name,id,description,price,statusCode,scenario
+1,Chips,9,Uncle Chips,120.0,200,Updated Product
+1,Chips,1,Uncle Chips,120.0,200,Updated Product
+1,Chips,1,Lays,120.0,200,Updated Product
+1,Chips,1,Lays,120.0,200,Updated Product
+1,1,1,orange,50.0,200,Updated Product
+2323424,23424242,0,2342232,50.0,404,Not Found
+1,23424242,1,2342232,50.0,200,Updated Product
+644647,23424242,0,2342232,50.0,404,Not Found
+2,1,2,orange,50.0,404,Not Found
+4,1,4,mango,50.0,200,Updated Product
+122,kivi,122,awesome fruit,79.32,200,Updated Product
+313,3,1,cashew,30.0,404,Not Found
+110,3,1,cashew,30.0,200,Updated Product
+9999,11111,9999,almond,100.0,200,Updated Product
