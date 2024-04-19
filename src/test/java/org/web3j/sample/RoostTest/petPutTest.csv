@@ -1,0 +1,11 @@
+id^|^name^|^category^|^photoUrls^|^tags^|^status^|^statusCode
+1^|^Max^|^Dog^|^http://example.com/img01.jpg^|^Friendly^|^available^|^200
+2^|^Bella^|^Cat^|^http://example.com/img02.jpg^|^Cute^|^pending^|^405
+3^|^Charlie^|^Bird^|^http://example.com/img03.jpg^|^Singer^|^sold^|^404
+4^|^Lucy^|^Fish^|^http://example.com/img04.jpg^|^Colorful^|^available^|^200
+5^|^Cooper^|^Reptile^|^http://example.com/img05.jpg^|^Rare^|^pending^|^400
+6^|^Sadie^|^Rodent^|^http://example.com/img06.jpg^|^Small^|^sold^|^404
+7^|^Daisy^|^Dog^|^http://example.com/img07.jpg^|^Loyal^|^available^|^200
+8^|^Molly^|^Cat^|^http://example.com/img08.jpg^|^Independent^|^pending^|^405
+9^|^Bailey^|^Bird^|^http://example.com/img09.jpg^|^Talkative^|^sold^|^404
+10^|^Maggie^|^Fish^|^http://example.com/img10.jpg^|^Shiny^|^available^|^200

@@ -1,0 +1,11 @@
+petId^|^additionalMetadata^|^statusCode
+1^|^Color: Brown, Breed: Labrador^|^200
+2^|^Color: Black, Breed: German Shepherd^|^200
+3^|^Color: White, Breed: Samoyed^|^200
+4^|^Color: Grey, Breed: Husky, Notes: Blue eyes^|^200
+5^|^Color: Tan, Breed: Chihuahua, Microchipped: Yes^|^200
+6^|^Color: Spotted, Breed: Dalmatian, Vaccinated: No^|^200
+7^|^Color: Gold, Breed: Golden Retriever, Likes water: Yes^|^200
+8^|^Color: Brindle, Breed: Boxer, Energetic: High^|^200
+9^|^Color: Tricolor, Breed: Beagle, Age: 3 years^|^200
+10^|^Color: Black/White, Breed: Border Collie, Trained: Yes^|^200

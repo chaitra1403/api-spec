@@ -1,0 +1,11 @@
+id^|^username^|^firstName^|^lastName^|^email^|^password^|^phone^|^userStatus^|^statusCode
+1^|^user1^|^Alice^|^Brown^|^alice.brown@email.com^|^pass1234^|^555-1234^|^1^|^200
+2^|^user2^|^Bob^|^Smith^|^bob.smith@email.com^|^pass2345^|^555-2345^|^1^|^200
+3^|^user3^|^Charlie^|^Jones^|^charlie.jones@email.com^|^pass3456^|^555-3456^|^1^|^200
+4^|^user4^|^Diana^|^Taylor^|^diana.taylor@email.com^|^pass4567^|^555-4567^|^1^|^200
+5^|^user5^|^Evan^|^Miller^|^evan.miller@email.com^|^pass5678^|^555-5678^|^1^|^200
+6^|^user6^|^Fiona^|^Davis^|^fiona.davis@email.com^|^pass6789^|^555-6789^|^1^|^200
+7^|^user7^|^George^|^Wilson^|^george.wilson@email.com^|^pass7890^|^555-7890^|^1^|^200
+8^|^user8^|^Hannah^|^Moore^|^hannah.moore@email.com^|^pass8901^|^555-8901^|^1^|^200
+9^|^user9^|^Ian^|^Jackson^|^ian.jackson@email.com^|^pass9012^|^555-9012^|^1^|^200
+10^|^user10^|^Julia^|^Lopez^|^julia.lopez@email.com^|^pass0123^|^555-0123^|^1^|^200
