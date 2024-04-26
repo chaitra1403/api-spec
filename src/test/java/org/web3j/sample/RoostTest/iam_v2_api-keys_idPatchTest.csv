@@ -1,0 +1,11 @@
+id^|^api_version^|^kind^|^metadata^|^spec^|^display_name^|^description^|^statusCode
+dlz-f3a90de1^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^200
+dlz-f3a90de2^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^401
+dlz-f3a90de3^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^402
+dlz-f3a90de4^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^403
+dlz-f3a90de5^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^404
+dlz-f3a90de6^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^422
+dlz-f3a90de7^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^429
+dlz-f3a90de8^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^500
+dlz-f3a90de9^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^400
+dlz-f3a90dea^|^iam/v2^|^ApiKey^|^^|^{}^|^CI kafka access key^|^This API key provides kafka access to cluster x^|^200

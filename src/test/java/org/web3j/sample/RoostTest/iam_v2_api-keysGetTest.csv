@@ -1,0 +1,11 @@
+spec.owner^|^spec.resource^|^page_size^|^page_token^|^statusCode
+user_01^|^resource_01^|^25^|^token_12345^|^200
+user_02^|^resource_02^|^50^|^token_12346^|^500
+user_03^|^resource_03^|^10^|^token_12347^|^200
+user_04^|^resource_04^|^15^|^token_12348^|^4XX
+user_05^|^resource_05^|^30^|^token_12349^|^200
+user_06^|^resource_06^|^20^|^token_12350^|^500
+user_07^|^resource_07^|^40^|^token_12351^|^4XX
+user_08^|^resource_08^|^50^|^token_12352^|^200
+user_09^|^resource_09^|^60^|^token_12353^|^4XX
+user_10^|^resource_10^|^70^|^token_12354^|^500
