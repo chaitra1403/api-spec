@@ -1,0 +1,11 @@
+id^|^statusCode
+user01^|^200
+user02^|^404
+user03^|^500
+user04^|^429
+user05^|^401
+user06^|^403
+user07^|^400
+user08^|^200
+user09^|^429
+user10^|^404
