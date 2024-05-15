@@ -1,0 +1,46 @@
+name,id,description,price,statusCode,scenario
+1,9,banana,50,200,Successful operation
+apple,9,apple,120,200,Successful operation
+Chips,9,Chips,120,200,Successful operation
+new Chips,9,new Chips,120,200,Successful operation
+Chips,1,Uncle Chips,120,200,Successful operation
+apple#,5,Highly recommended,39.99,405,Invalid input
+Julia Thomas,10,Excellent quality,109.99,405,Invalid input
+apple#,9,The best in the market,69.99,405,Invalid input
+null,9,The best in the market,69.99,405,Invalid input
+null,2,An amazing item,49.99,405,Invalid input
+James Davis,7,Top selling item,79.99,405,Invalid input
+Joseph Anderson,9,The best in the market,69.99,405,Invalid input
+null,9,The best in the market,69.99,405,Invalid input
+apple#,9,The best in the market,69.99,405,Invalid input
+null,6,A fantastic find,59.99,405,Invalid input
+Jennifer Wilson,8,Customers love this,89.99,405,Invalid input
+Joseph Anderson,9,The best in the market,69.99,405,Invalid input
+apple#,9,The best in the market,69.99,405,Invalid input
+null,2,An amazing item,49.99,405,Invalid input
+John Doe,1,A great product,29.99,200,Successful operation
+apple#,8,Customers love this,89.99,200,Successful operation
+null,2,An amazing item,49.99,200,Successful operation
+apple#,8,Customers love this,89.99,200,Successful operation
+null,4,A popular pick,19.99,200,Successful operation
+null,10,Excellent quality,109.99,200,Successful operation
+Jim Brown,3,An excellent choice,99.99,200,Successful operation
+Jack Williams,5,Highly recommended,39.99,200,Successful operation
+Julia Thomas,10,Excellent quality,109.99,200,Successful operation
+Jill Johnson,4,A popular pick,19.99,200,Successful operation
+apple#,10,Excellent quality,109.99,200,Successful operation
+apple#,1,A great product,29.99,200,Successful operation
+Jessica Jones,6,A fantastic find,59.99,200,Successful operation
+null,8,Customers love this,89.99,200,Successful operation
+apple#,1,A great product,29.99,200,Successful operation
+Jennifer Wilson,8,Customers love this,89.99,200,Successful operation
+apple#,10,Excellent quality,109.99,200,Successful operation
+apple#,9,The best in the market,69.99,200,Successful operation
+null,9,The best in the market,69.99,200,Successful operation
+Jill Johnson,4,A popular pick,19.99,200,Successful operation
+null,4,A popular pick,19.99,200,Successful operation
+Jane Smith,2,An amazing item,49.99,200,Successful operation
+null,1,A great product,29.99,200,Successful operation
+apple#,10,Excellent quality,109.99,200,Successful operation
+apple#,8,Customers love this,89.99,200,Successful operation
+John Doe,1,A great product,29.99,200,Successful operation
