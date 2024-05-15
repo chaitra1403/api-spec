@@ -1,0 +1,5 @@
+offset,limit,sort,nobelPrizeYear,yearTo,nobelPrizeCategory,format,csvLang,statusCode,scenario
+0,10,asc,1989,1999,Physics,json,en,200,Successful responses: OK
+10,20,desc,1990,2000,Chemistry,xml,de,400,Client error responses: Bad Request
+20,30,asc,1991,2001,Medicine,json,fr,404,Client error responses: Not Found
+30,40,desc,1992,2002,Peace,xml,es,422,Client error responses: Unprocessable Entity
